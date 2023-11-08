@@ -24,7 +24,8 @@ public class Ejemplo3 {
         // >= 5 and < 7.5 Suspenso
         // >=3 and < 5 Recuperacion
         // < 3 Reprobado
-        double promedio = 10;
+        double promedio = 6
+                ;
 
         if (promedio >= 7.5 && promedio <= 10) {
             System.out.printf("Estudiante aprobado con un "
